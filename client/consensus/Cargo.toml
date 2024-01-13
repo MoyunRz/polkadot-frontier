@@ -22,4 +22,4 @@ sp-runtime = { workspace = true }
 # Frontier
 fp-consensus = { workspace = true, features = ["default"] }
 fp-rpc = { workspace = true, features = ["default"] }
-log = "0.4.17"
+log = "0.4.20"
