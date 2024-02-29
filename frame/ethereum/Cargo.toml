@@ -29,7 +29,7 @@ fp-evm = { workspace = true }
 fp-rpc = { workspace = true }
 fp-storage = { workspace = true }
 pallet-evm = { workspace = true }
-log = "0.4.17"
+log = "0.4.21"
 
 [dev-dependencies]
 hex = { workspace = true }
